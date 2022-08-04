@@ -1,0 +1,15 @@
+D:\Seminar\Metod\bin\Debug\net6.0\Metod.exe
+D:\Seminar\Metod\bin\Debug\net6.0\Metod.deps.json
+D:\Seminar\Metod\bin\Debug\net6.0\Metod.runtimeconfig.json
+D:\Seminar\Metod\bin\Debug\net6.0\Metod.dll
+D:\Seminar\Metod\bin\Debug\net6.0\Metod.pdb
+D:\Seminar\Metod\obj\Debug\net6.0\Metod.csproj.AssemblyReference.cache
+D:\Seminar\Metod\obj\Debug\net6.0\Metod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar\Metod\obj\Debug\net6.0\Metod.AssemblyInfoInputs.cache
+D:\Seminar\Metod\obj\Debug\net6.0\Metod.AssemblyInfo.cs
+D:\Seminar\Metod\obj\Debug\net6.0\Metod.csproj.CoreCompileInputs.cache
+D:\Seminar\Metod\obj\Debug\net6.0\Metod.dll
+D:\Seminar\Metod\obj\Debug\net6.0\refint\Metod.dll
+D:\Seminar\Metod\obj\Debug\net6.0\Metod.pdb
+D:\Seminar\Metod\obj\Debug\net6.0\Metod.genruntimeconfig.cache
+D:\Seminar\Metod\obj\Debug\net6.0\ref\Metod.dll
